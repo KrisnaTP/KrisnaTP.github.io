@@ -1,0 +1,144 @@
+* {
+    width: 90%;
+    margin: 0 auto;   
+}
+
+p, h2 {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: green;
+    color: white;
+    
+}
+
+a:active {
+    background-color: #efefef;
+    color: black;
+}
+
+
+/* Header */
+
+.header {
+   
+    margin-bottom: 10px;
+    margin-top: 10px;
+    background-color: #efefef;
+}
+
+.header h1 {
+    padding: 10px;
+    font-size: 35px;
+    font-family: sans-serif;
+}
+
+.penulis {
+    font-size: 15px;
+    padding: 10px;
+}
+
+
+/* Konten */
+
+.img-pengantar {
+    background-color: #efefef;
+    margin-bottom: 10px;
+}
+
+img {
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    
+}
+
+.pengantar {
+    padding: 10px;
+}
+
+/* .point-point {
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+} */
+
+.point-1 {
+    background-color: #efefef;
+    margin-bottom: 10px;
+}
+
+.point-2 {
+    background-color: #efefef;
+    margin-bottom: 10px;
+}
+
+.point-3 {
+    background-color: #efefef;
+    margin-bottom: 10px;
+}
+
+.point-4 {
+    background-color: #efefef;
+    margin-bottom: 10px;
+}
+
+.point-5 {
+    background-color: #efefef;
+    margin-bottom: 10px;
+}
+
+.point-6 {
+    background-color: #efefef;
+    margin-bottom: 10px;
+}
+
+.point-7 {
+    background-color: #efefef;
+    margin-bottom: 10px;
+}
+
+.konten p {
+    padding: 10px;
+}
+
+/* Penutup */
+
+.kesimpulan {
+    background-color: #efefef;
+}
+
+.isi-kesimpulan {
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.kesimpulan p{
+    padding: 10px;
+}
+
+/* footer */
+
+.footer {
+    background-color: #efefef;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.penulis-footer {
+    font-weight: bold;
+    padding: 10px;
+}
+
+.pekerjaan {
+
+}
